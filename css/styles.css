@@ -6,10 +6,17 @@ body {
 }
 
 header {
+  font-size: 25px;
   background: black;
   color: #fff;
   text-align: center;
   padding-top: 64px;
+}
+#keyword{
+  padding-top: 10px;
+  color: yellow;
+  font-family: ‘Sacramento’, cursive;
+  font-size: 50px;
 }
 #nav {
   list-style: none;
